@@ -1040,6 +1040,18 @@ else if (config.WORKTYPE == 'public') {
 
     }));
 
+    Asena.addCommand({ pattern: 'owner ?(.*)', fromMe: false, desc: 'owner number' }, (async (message, match) => {
+
+
+    const vcard = 'BEGIN:VCARD\n' // saidali said
+            + 'VERSION:3.0\n' 
+            + 'FN:ʜʏᴘᴇʀ\n' //coded by saidali   not copy this
+            + 'ORG:script SAIDALI;\n' // the organization of the contact
+            + 'TEL;type=CELL;type=VOICE;waid=917025967090:918129624395\n' //created saidali
+            + 'END:VCARD'
+    await message.client.sendMessage(message.jid,{displayname: "HʏᴘᴇʀSɪʀ🖤", vcard: vcard}, MessageType.contact)
+}))
+
     Asena.addCommand({pattern: "covid ?(.*)", fromMe: false, desc: Clang.COV_DESC}, (async (message, match) => {
         if (match[1] === "") {
             try{
