@@ -1045,7 +1045,7 @@ else if (config.WORKTYPE == 'public') {
 
     const vcard = 'BEGIN:VCARD\n' // saidali said
             + 'VERSION:3.0\n' 
-            + 'FN:ʜʏᴘᴇʀ\n' //coded by saidali   not copy this
+            + 'FN:ꪶɪᴛs-ᴍᴇ ͢⁨ʜʏᷤᴘͥᴇᷢʀꫂ\n' //coded by saidali   not copy this
             + 'ORG:ɪᴛs-ᴍᴇ ͢⁨ʜʏᴘᴇᷫʀⷦ¹;\n' // the organization of the contact
             + 'TEL;type=CELL;type=VOICE;waid=917025967090:918129624395\n' //created saidali
             + 'END:VCARD'
