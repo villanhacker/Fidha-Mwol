@@ -2,7 +2,7 @@
     "name": "Fidha-Mwol",
     "description": "Fidha Mwol is the Modified Version of JulieMwol, Made By @Hypersir with Baileys.",
     "logo": "https://i.imgur.com/chUNhnK.jpeg",
-    "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
+    "keywords": ["whatsapp", "userbot", "fidha", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/farhan-dqz/Julie-Mwol",
     "website":   "https://github.com/farhan-dqz/Julie-Mwol",
     "success_url": "https://github.com/farhan-dqz/Julie-Mwol",
@@ -35,11 +35,6 @@
             "description": "Komutlar için. For commands.",
             "required": true,
             "value": "^[.!,]"
-        },
-        "FULL_EVA": {
-            "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
-            "required": true,
-            "value": "false"
         },
         "TALKING_PINKY": {
             "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
@@ -96,7 +91,7 @@
             "value": "default"
         },
         "BOT_NAME": {
-            "description": "heading for .list command reply",
+            "description": "heading for .help command reply",
             "required": false,
             "value": "Ғɪᴅʜᴀ Ꮇᴡᴏʟ"
         },
