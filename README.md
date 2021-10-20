@@ -26,27 +26,6 @@ Project created by <a href="https://github.com/Hypersir">Hyper-sir</a> to make i
 
   <a href="https://youtu.be/0pU8N611-Oc"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
 <br>
-### The Hard Method
-```js
-GET QR
-$ apt install git
-$ apt install nodejs --fix-missing
-$ git clone https://github.com/Hypersir/Fidha-Mwol
-$ cd Fidha-Mwol
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node Fidha.js
-```
-      
-```js
-SETUP
-$ git clone https://github.com/Hypersir/Fidha-Mwol
-$ cd FidhaMwol
-$ npm i
-$ node Fidha.js
-```
-
-----
 
   <p align="center">
   <a href="httsp://github.com/Hypersir/Fidha-Mwol">
@@ -62,7 +41,7 @@ $ node Fidha.js
 </p>
 
 ## 📢 Guide
-Any doubt click wa logo👇
+Any doubt contact owner👇
     <br>
 <br>
   <a href="https://wa.me/+527777143999"><img title="any doubt contact owner" src="https://img.shields.io/badge/any_doubt_contact_owner-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
