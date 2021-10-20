@@ -58,10 +58,10 @@ By establishing the Hyper, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Hyper Sir](https://i.imgur.com/4Oir08c.jpeg)](https://github.com/Hypersir) |  [![hyper_sir](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) | [![SPARK-SHADOW](https://github.com/SPARK-SHADOW.png?size=100)](https://github.com/SPARK-SHADOW) 
-----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [Hyper-sir](https://github.com/Hypersir) | [afnanplk](https://github.com/afnanplk) | [SPARK-SHADOW](https://github.com/SPARK-SHADOW) 
-Developer, Modifying as Public | Re-Developer, Bug Fixes, Modules, Commits |  Bug Fixes, Modules | Bug Fixes, Commits
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Hyper Sir](https://i.imgur.com/4Oir08c.jpeg)](https://github.com/Hypersir) |  [![hyper_sir](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+----|----|----
+[farhan-dqz](https://github.com/farhan-dqz) | [Hyper-sir](https://github.com/Hypersir) | [afnanplk](https://github.com/afnanplk)
+Developer, Modifying as Public | Re-Developer, Bug Fixes, Modules, Commits |  Bug Fixes, Modules
   </div>
     
 
