@@ -18,9 +18,6 @@ Project created by <a href="https://github.com/Hypersir">Hyper-sir</a> to make i
         Reserved |
     <br> 
 </p>
-
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Hypersir/Fidha-Mwol&title=Profile%20Views)
-## Setup
 <div align="center">
 
   ### Simple Method
@@ -70,7 +67,7 @@ $ node Fidha.js
 Any doubt click wa logo👇
     <br>
 <br>
-  <a href="https://wa.me/+527777143999"><img title="any doubt contact" src="https://img.shields.io/badge/any_doubt_contact-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+  <a href="https://wa.me/+527777143999"><img title="any doubt contact owner" src="https://img.shields.io/badge/any_doubt_contact_owner-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hypersir&repo=Fidha-Mwol&theme=nightowl)](https://github.com/Hypersir/Fidha-Mwol)
