@@ -1,7 +1,5 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+FidhaMwol+WA+Bot+repo;Created+by+Hypersir+with+baileys;This+is+a+WhatsApp+UserBot;With+more+features)](https://git.io/typing-svg)
-
  </a>
   <img border-radius: 15px src="https://i.imgur.com/chUNhnK.jpeg" width="200" height="200"/>
   <p align="center">
