@@ -1,7 +1,7 @@
 <div align="center">
 
  </a>
-  <img border-radius: 15px src="https://i.imgur.com/chUNhnK.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/4Oir08c.jpeg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Fidhamwol" src="https://img.shields.io/badge/fidha-mwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -41,10 +41,7 @@ Project created by <a href="https://github.com/Hypersir">Hyper-sir</a> to make i
 </p>
 
 ## 📢 Guide
-Any doubt contact owner👇
-    <br>
-<br>
-  <a href="https://wa.me/+527777143999"><img title="any doubt contact owner" src="https://img.shields.io/badge/any_doubt_contact_owner-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+  <a href="https://wa.me/+527777143999"><img title="click to contact owner" src="https://img.shields.io/badge/click_to_contact_owner-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hypersir&repo=Fidha-Mwol&theme=nightowl)](https://github.com/Hypersir/Fidha-Mwol)
@@ -61,7 +58,7 @@ By establishing the Hyper, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Hyper Sir](https://i.imgur.com/chUNhnK.jpeg)](https://github.com/Hypersir) |  [![hyper_sir](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) | [![SPARK-SHADOW](https://github.com/SPARK-SHADOW.png?size=100)](https://github.com/SPARK-SHADOW) 
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Hyper Sir](https://i.imgur.com/4Oir08c.jpeg)](https://github.com/Hypersir) |  [![hyper_sir](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) | [![SPARK-SHADOW](https://github.com/SPARK-SHADOW.png?size=100)](https://github.com/SPARK-SHADOW) 
 ----|----|----|----
 [farhan-dqz](https://github.com/farhan-dqz) | [Hyper-sir](https://github.com/Hypersir) | [afnanplk](https://github.com/afnanplk) | [SPARK-SHADOW](https://github.com/SPARK-SHADOW) 
 Developer, Modifying as Public | Re-Developer, Bug Fixes, Modules, Commits |  Bug Fixes, Modules | Bug Fixes, Commits
