@@ -14,7 +14,7 @@ Rashi.addCommand({pattern: 'list', fromMe: false, desc: 'it send bot menu'}, (as
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.imgur.com/4Oir08c.jpeg";
+    r_text[0] = "VishnuMon.jpeg";
     
     
     var i = Math.floor(1*Math.random())
@@ -48,7 +48,7 @@ if (config.AUTOBİO == 'false') auto_bio = 'Off'
 │ ʜᴇʏ ᴜsᴇʀ ` + wish + `
 │         *⌚` + time + `*
 │
-│ ▢ *ᴅᴇᴠᴇʟᴏʟᴇʀ* : ꪶɪᴛs-ᴍᴇ ͢ʜʏᷤᴘͥᴇᷢʀ⁨ꫂ⁩
+│ ▢ *ᴅᴇᴠᴇʟᴏʟᴇʀ* : ꪶVishnuvdkꫂ⁩
 │ ▢ *ᴏᴡɴᴇʀ* :` + config.BOT + `
 │ ▢ *ᴠᴇʀsɪᴏɴ* : 1.0
 │ ▢ *ғᴜʟʟ ᴇᴠᴀ* : ` + eva + `
