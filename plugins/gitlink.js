@@ -18,19 +18,16 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*•━━━━╼⤏FidhaMwol⤎╾━━━•*
+    await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*•━━━━╼⤏VishnuMon⤎╾━━━•*
  
 
-        *ɢɪᴛʜᴜʙ ʟɪɴᴋ        _http://github.com/Hypersir/Fidha-Mwol_*
- 
-
-       *ʙᴏᴛ ᴍᴀᴋɪɴɢ ᴠɪᴅᴇᴏ    _https://youtu.be/WGfDEHJyV1I_*
+        *ɢɪᴛʜᴜʙ ʟɪɴᴋ        _http://github.com/Vishnuvdk/VishnuMon*
  
  
-       *ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ        _https://Wa.me/+917025967090_*
+       *ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ        _https://Wa.me/+917510973747*
   
   
-      *ɢɪᴛʜᴜʙ ᴘʀᴏғɪʟᴇ ʟɪɴᴋ _https://github.com/Hypersir_*
+      *ɢɪᴛʜᴜʙ ᴘʀᴏғɪʟᴇ ʟɪɴᴋ _https://github.com/Vishnuvdk*
 `}) 
 
 })); 
