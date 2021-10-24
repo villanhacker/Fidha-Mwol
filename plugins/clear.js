@@ -25,5 +25,5 @@ Asena.addCommand({pattern: 'clear', fromMe: true, desc: END, dontAddCommandList:
 
     await message.sendMessage('```ᴄʟᴇᴀɴɪɴɢ ᴄʜᴀᴛ...```');
     await message.client.modifyChat (message.jid, ChatModification.delete);
-    await message.sendMessage('```🏳 ᴄʜᴀᴛ ᴄʟᴇᴀʀᴇᴅ ʙʏ ғɪᴅʜᴀ ᴍᴡᴏʟ 🏳```');
+    await message.sendMessage('```🏳 ᴄʜᴀᴛ ᴄʟᴇᴀʀᴇᴅ ʙʏ VishnuMon 🏳```');
 }));
