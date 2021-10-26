@@ -22,7 +22,7 @@ Project created by <a href="https://github.com/Hypersir">Hyper-sir</a> to make i
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hypersir/Fidha-Mwol) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Hypersir/FidhaMwolqr)
 
   <a href="https://youtu.be/0pU8N611-Oc"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
 <br>
