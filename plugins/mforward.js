@@ -9,9 +9,9 @@
  const Config = require('../config');
 
           var mode = ''
-if (Config.PLK == 'default') mode = 'ᴅᴇᴠᴇʟᴏᴘᴇʀ : ʀᴀᴀsʜɪɪ'
+if (Config.BOT == 'default') mode = 'ᴅᴇᴠᴇʟᴏᴘᴇʀ : ʀᴀᴀsʜɪɪ'
 
-else mode = 'ғᴏʀᴡᴀʀᴅᴇᴅ ʙʏ ' + Config.PLK
+else mode = 'ғᴏʀᴡᴀʀᴅᴇᴅ ʙʏ ' + Config.BOT
 
             const raashi = {
 
@@ -20,7 +20,7 @@ else mode = 'ғᴏʀᴡᴀʀᴅᴇᴅ ʙʏ ' + Config.PLK
              
             }
 
-Rashi.tozara({pattern: 'mforward ?(.*)', fromMe: true, desc: 'its foraward replied audio'}, (async (message, match) => {    
+Asena.addCommand({pattern: 'mforward ?(.*)', fromMe: true, desc: 'its foraward replied audio'}, (async (message, match) => {    
     if (message.reply_message === false);
     
     if(message.reply_message.video ||
