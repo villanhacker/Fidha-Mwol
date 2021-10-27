@@ -20,7 +20,7 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
         await message.sendMessage("ɴᴇᴡ sᴜᴅᴏ ᴜᴘᴅᴀᴛᴇᴅ")
     }));
 
-    Julie.addCommand({ pattern: 'caption ?(.*)', fromMe: true, desc: 'changes all captions', usage: '.caption Made by FidhaMwol' }, (async (message, match) => {
+    Julie.addCommand({ pattern: 'caption ?(.*)', fromMe: true, desc: 'changes all captions', usage: '.caption Made by VishnuMon' }, (async (message, match) => {
         if (match[1] == '') return await message.sendMessage('ɴᴇᴇᴅ ᴀ ᴄᴀᴘᴛɪᴏɴ ')
         await heroku.patch(baseURI + '/config-vars', {
             body: {
