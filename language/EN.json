@@ -2,7 +2,7 @@
     "__ASENAJSON__": true,
     "LANGUAGE": "English",
     "LANGCODE": "en",
-    "AUTHOR": "AsenaDev",
+    "AUTHOR": "VishnuMon",
     "STRINGS": {
         "_asena": {
             "COMMAND": "Command",
@@ -52,7 +52,7 @@
             "L_WARN": "Please open your location before using command!"
         },
         "gitlink": {
-            "GL": "To get github links|http://github.com/Hypersir/Fidha-Mwol."
+            "GL": "To get github links|http://github.com/Vishnuvdk/VishnuMon."
         },
         "afk": {
             "AFK_DESC": "It makes you AFK - Away From Keyboard.",
@@ -78,9 +78,9 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart Fidha Mwol",
+            "RESTART_DESC": "Restart VishnuMon",
             "RESTART_MSG": "```ʀᴇsᴛᴀʀᴛɪɴɢ ʙᴏᴛ...```",
-            "SHUTDOWN_DESC": "Shutdown Fidha Mwol",
+            "SHUTDOWN_DESC": "Shutdown VishnuMon",
             "SHUTDOWN_MSG": "```sʜᴜᴛᴛɪɴɢ ᴅᴏᴡɴ ʙᴏᴛ ⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "*Total Quota*",
@@ -207,7 +207,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "*ɴɪssᴀʀᴀᴍ🧞‍♂️*"
+            "DOWNLOADING": "*VishnuMon*"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -229,13 +229,13 @@
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "*Your bot is completely up-to-date!*",
-            "NEW_UPDATE": "*New update available for Fidha Bot!*\n\n*To update Bot give this command: .update now*\n\n*Support: https://wa.me/+527777143999*\n\nChanges:\n```",
+            "NEW_UPDATE": "*New update available for VishnuMon Bot!*\n\n*To update Bot give this command: .update now*\n\n*Support: https://wa.me/+919539504740*\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "Updating..🧞‍♂️",
+            "UPDATING": "Updating..",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
             "UPDATED": "*✅  Updated!*",
-            "UPDATED_LOCAL": "*✅ Fidha bot Updated!*",
-            "AFTER_UPDATE": "*FidhaMwol Restarting !*",
+            "UPDATED_LOCAL": "*✅ VishnuMon Updated!*",
+            "AFTER_UPDATE": "*VishnuMon Restarting !*",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
