@@ -30,10 +30,10 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*Fidha-Mwol by Hypersir*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*VishnuMon by Vishnuvdk*' , MessageType.text);
         }
         else {
-            await message.client.sendMessage(message.jid,Config.OWNER + '\n\n--------------------', MessageType.text);
+            await message.client.sendMessage(message.jid,Config.OWNER + '\n\n', MessageType.text);
         }
     }));
 }
