@@ -79,9 +79,9 @@
         },
         "heroku": {
             "RESTART_DESC": "Restart Fidha Mwol",
-            "RESTART_MSG": "```ʀᴇsᴛᴀʀᴛɪɴɢ ʙᴏᴛ...```",
+            "RESTART_MSG": "```Restarting...```",
             "SHUTDOWN_DESC": "Shutdown Fidha Mwol",
-            "SHUTDOWN_MSG": "```sʜᴜᴛᴛɪɴɢ ᴅᴏᴡɴ ʙᴏᴛ ⛔```",
+            "SHUTDOWN_MSG": "```Shutting Down⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "*Total Quota*",
             "DYNO_USED": "*Quota used*",
@@ -229,12 +229,12 @@
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "*Your bot is completely up-to-date!*",
-            "NEW_UPDATE": "*New update available for Fidha Bot!*\n\n*To update Bot give this command: .update now*\n\n*Support: https://wa.me/+527777143999*\n\nChanges:\n```",
+            "NEW_UPDATE": "*New update available for Fidha Bot!*\n\n*To update Bot give this command: .update now*\n\n*Support Group Link: https://chat.whatsapp.com/DwfuSbumUA3DoXYyyNlPSt*\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "Updating..🧞‍♂️",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
             "UPDATED": "*✅  Updated!*",
-            "UPDATED_LOCAL": "*✅ Fidha bot Updated!*",
+            "UPDATED_LOCAL": "*✅ Bot Updated!*",
             "AFTER_UPDATE": "*FidhaMwol Restarting !*",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
