@@ -27,7 +27,7 @@ Project created by <a href="https://github.com/Hypersir">Hyper-sir</a> to make i
   <p align="center">
   <a href="https://github.com/Hypersir/Fidha-Mwol">
     
-<a href="https://github.com/Hypersir/Fidha-Mwol
+<a href="https://github.com/Hypersir/Fidha-Mwol">
 <p align="center">
 <a href="https://github.com/Hypersir/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Hypersir?color=blue&style=flat-square"></a>
@@ -51,7 +51,6 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact -
 ```
-
 <a href="https://wa.me/+527777143999?text=*Hey+iam+from+your+github+link+need+help💞*"><img title="click to contact owner" src="https://img.shields.io/badge/click_to_contact_owner-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
   
    <a href="https://chat.whatsapp.com/DwfuSbumUA3DoXYyyNlPSt"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
