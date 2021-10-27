@@ -15,7 +15,7 @@ if (Config.WORKTYPE == 'private') {
             await message.client.sendMessage(message.jid,'*VishnuMon madeby Vishnuvdk*' , MessageType.text);
         }
         else {
-            await message.client.sendMessage(message.jid,Config.OWNER + '\n\n---------------------', MessageType.text);
+            await message.client.sendMessage(message.jid,Config.OWNER + '\n\n', MessageType.text);
         }
     }));
 }
