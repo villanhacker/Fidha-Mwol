@@ -29,21 +29,21 @@
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "*ɪ ᴀᴍ ɴᴏᴛ ᴀᴅᴍɪɴ ɪɴ ᴛʜɪs ɢʀᴏᴜᴘ!*",
-            "BANNED": "ᴋɪᴄᴋᴇᴅ ᴏᴜᴛ ᴏғ ᴛʜᴇ ɢʀᴏᴜᴘ!",
-            "GIVE_ME_USER": "*ɢɪᴠᴇ ᴍᴇ ᴀ ᴜsᴇʀ!*",
+            "IM_NOT_ADMIN": "*I am not admin in this group!*",
+            "BANNED": "Kicked out of the group!",
+            "GIVE_ME_USER": "*Give me a user!*",
             "ADD_DESC": "Adds someone to the group.",
             "ADDED": "added to the group!",
             "ALREADY_PROMOTED": "```How can I make someone admin who is already admin?```",
-            "PROMOTED": "```, ᴀᴅᴍɪɴ ʀᴏʟᴇ ᴡᴀs ɢɪᴠᴇɴ!```",
+            "PROMOTED": "```, Admin role was given!```",
             "PROMOTE_DESC": "Makes any person an admin.",
             "DEMOTE_DESC": "Takes the authority of any admin.",
             "ALREADY_NOT_ADMIN": "```How can I make someone admin who is already admin?```",
-            "DEMOTED": "```, ʜᴀs ʙᴇᴇɴ ᴅᴇᴍᴏᴛᴇᴅ!```",
+            "DEMOTED": "```, Has been demoted!```",
             "MUTE_DESC": "Mute the group chat. Only the admins can send a message.\n⌨️ Example: .mute & .mute 5m etc",
-            "MUTED": "```ɢʀᴏᴜᴘ ᴄʜᴀᴛ ᴍᴜᴛᴇᴅ!```",
+            "MUTED": "```Group chat muted!```",
             "UNMUTE_DESC": "Unmute the group chat. Anyone can send a message.",
-            "UNMUTED": "```ᴛʜᴇ ɢʀᴏᴜᴘ ᴄʜᴀᴛ ʜᴀs ᴜɴᴍᴜᴛᴇᴅ!```",
+            "UNMUTED": "```The group chat has unmuted!```",
             "INVITE_DESC": "Provides the group's invitation link.",
             "INVITE": ""
         },
@@ -140,21 +140,21 @@
         "memes": {
             "MEMES_DESC": "Photo memes you replied to.",
             "NEED_REPLY": "*Reply to a photo!*",
-            "DOWNLOADING": "*ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ᴍᴇᴅɪᴀ & ᴍᴀᴋɪɴɢ ᴍᴇᴍᴇ...*"
+            "DOWNLOADING": "*Downloading & Making meme...*"
         },
         "ocr": {
             "OCR_DESC": "Reads the text on the photo you have replied.",
-            "NEED_REPLY": "*ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴘʜᴏᴛᴏ...*",
+            "NEED_REPLY": "*Replay to a photo...*",
             "DOWNLOADING": "```Media is downloading & reading...```",
             "ERROR": "```I couldn't read this :/```\n*Error:*```{}```",
             "RESULT": "*Language:* ```{}```\n*Here is what I read:* ```{}```"
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "*ʙʏᴇ ʙʏᴇ ɪ ᴀᴍ ɢᴏɪɴɢ...*",
+            "KICKME": "*Bye Bye Iam Going...*",
             "PP_DESC": "Makes the profile photo what photo you reply.",
             "NEED_PHOTO": "*Give me a photo!*",
-            "PPING": "*sᴇᴛᴛɪɴɢ ᴘʀᴏғɪʟᴇ ᴘʜᴏᴛᴏ...*",
+            "PPING": "*Setting profile photo...*",
             "BLOCK_DESC": "Block user.",
             "UNBLOCK_DESC": "Unblock user.",
             "BLOCKED": "blocked",
@@ -163,8 +163,8 @@
             "UNBLOCKED_UPPER": "Unblocked.",
             "NEED_USER": "Give me a user!",
             "JID_DESC": "Giving user's JID.",
-            "JID": "```JID address of``` @{} ```: {}```",
-            "JID_CHAT": "```Chat's JID address: {}```"
+            "JID": " @{} : {}",
+            "JID_CHAT": " {}"
         },
         "removebg": {
             "REMOVEBG_DESC": "Removes the background of the photos.",
@@ -189,17 +189,17 @@
             "ISONG_DESC": "Uploads the song you wrote for ios users.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song eminem - rap god```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*sᴇᴀʀᴄʜɪɴɢ*\n",
-            "UPLOADING_SONG": "\n*ᴜᴘʟᴏᴀᴅɪɴɢ sᴏɴɢ*\n",
+            "DOWNLOADING_SONG": "\n*Downloading song*\n",
+            "UPLOADING_SONG": "\n*Uploading song*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "*ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ*",
-            "UPLOADING_VIDEO": "*ᴜᴘʟᴏᴀᴅɪɴɢ*",
+            "DOWNLOADING_VIDEO": "*Downloading video*",
+            "UPLOADING_VIDEO": "*Uploading video*",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
             "NOT_FOUND": "*I couldn't find anything :(*",
-            "SEARCHING": "*🔎sᴇᴀʀᴄʜɪɴɢ...*",
+            "SEARCHING": "*🔎Searching...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
             "IMG": "Uploading photo ```{}``` number ```{} ```..."
@@ -207,7 +207,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "*ɴɪssᴀʀᴀᴍ🧞‍♂️*"
+            "DOWNLOADING": "*Converting to Sticker*",
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -235,7 +235,7 @@
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
             "UPDATED": "*✅  Updated!*",
             "UPDATED_LOCAL": "*✅ Bot Updated!*",
-            "AFTER_UPDATE": "*FidhaMwol Restarting !*",
+            "AFTER_UPDATE": "*FidhaMwol Restarting Automaticaly!*",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
