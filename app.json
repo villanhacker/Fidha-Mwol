@@ -62,7 +62,7 @@
             "value": "true"
         },
         "HEROKU_API_KEY": {
-            "description": "Heroku API Key.",
+            "description": "Enter your heroku api key [ You can get it from here : https://dashboard.heroku.com/account Scroll down to end, click reveal button & Copy the API KEY ].",
             "required": true
         },
         "MUTE_MESSAGE": {
@@ -101,7 +101,7 @@
             "value": "public"
         },
         "HEROKU_APP_NAME": {
-            "description": "Heroku APP Name.",
+            "description": "Re-Enter the heroku app name. [ Same name which you have entered on 'app-name' ( above )].",
             "required": true
         },
         "REMOVE_BG_API_KEY": {
