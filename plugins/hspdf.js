@@ -17,6 +17,6 @@ let toxicdevil = Config.WORKTYPE == 'public' ? false : true
 
     await message.client.sendMessage(message.jid, '```Converting Site to PDF```', MessageType.text);
 
-    await message.sendMessage(Buffer.from(webimage.data), MessageType.document, {mimetype: Mimetype.pdf, filename: 'Fidha-Mwol.pdf'});
+    await message.sendMessage(Buffer.from(webimage.data), MessageType.document, {mimetype: Mimetype.pdf, filename: 'Fidhawabot.pdf'});
 
     }));    
