@@ -63,7 +63,7 @@ you can contact -
     
   [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Hyper Sir](https://i.imgur.com/RBYwn3X.jpeg)](https://github.com/Hypersir) |  [![hyper_sir](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [HY93R 51R](https://github.com/Hypersir) | [afnanplk](https://github.com/afnanplk)
+[farhan-dqz](https://github.com/farhan-dqz) | [HY93R-51R](https://github.com/Hypersir) | [afnanplk](https://github.com/afnanplk)
 Developer, Modifying as Public | Re-Developer, Bug Fixes, Modules, Commits |  Bug Fixes, Modules
   </div>
     
