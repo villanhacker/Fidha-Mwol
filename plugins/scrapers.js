@@ -930,7 +930,7 @@ else if (config.WORKTYPE == 'public') {
             });
     }));
 
-    Asena.addCommand({pattern: 'searchyt ?(.*)', fromMe: false, desc: Lang.YT_DESC}, (async (message, match) => { 
+    Asena.addCommand({pattern: 'yt ?(.*)', fromMe: false, desc: Lang.YT_DESC}, (async (message, match) => { 
 
         if (match[1] === '') return await message.client.sendMessage(message.jid,Lang.NEED_WORDS,MessageType.text);    
         var reply = await message.client.sendMessage(message.jid,Lang.GETTING_VIDEOS,MessageType.text);
