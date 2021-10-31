@@ -1,4 +1,4 @@
-/* codded by raashii
+/* codded by hyper
 use this git under copyright
 dont change credit
 */
