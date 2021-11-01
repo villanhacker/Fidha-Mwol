@@ -24,6 +24,9 @@ Project created by <a href="https://github.com/Hypersir">Hyper-sir</a> to make i
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Hypersir/FidhaMwolqr)
 
+<a href="https://youtu.be/1z5uJPPGAdU"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
+<br>
+
   <p align="center">
   <a href="https://github.com/Hypersir/Fidha-Mwol">
     
@@ -54,9 +57,6 @@ you can contact -
 <a href="https://wa.me/+527777143999?text=*Hey+iam+from+your+github+link+need+help💞*"><img title="click to contact owner" src="https://img.shields.io/badge/click_to_contact_owner-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
   
    <a href="https://chat.whatsapp.com/DwfuSbumUA3DoXYyyNlPSt"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-  <a href="https://youtu.be/0pU8N611-Oc"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
-<br>
 
 ## Developers
   <div align="center">
