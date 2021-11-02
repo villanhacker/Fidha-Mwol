@@ -10,11 +10,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Hypersir">Hyper-sir</a> to make it public
-    <br>
-       | © |
-        Reserved |
-    <br> 
+
 </p>
 <div align="center">
 
@@ -24,37 +20,10 @@ Project created by <a href="https://github.com/Hypersir">Hyper-sir</a> to make i
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Hypersir/FidhaMwolqr)
 
-<a href="https://youtu.be/1z5uJPPGAdU"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
+<a href="https://youtu.be/1z5uJPPGAdU"><img src="https://img.shields.io/badge/-bot%20creating%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
 <br>
 
-  <p align="center">
-  <a href="https://github.com/Hypersir/Fidha-Mwol">
-    
-<a href="https://github.com/Hypersir/Fidha-Mwol">
-<p align="center">
-<a href="https://github.com/Hypersir/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/Hypersir?color=blue&style=flat-square"></a>
-<a href="https://github.com/Hypersir/Fidha-Mwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Hypersir/Fidha-Mwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/Hypersir/Fidha-Mwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Hypersir/Fidha-Mwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/Hypersir/Fidha-Mwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Hypersir/Fidha-Mwol?label=Watchers&color=blue&style=flat-square"></a>
-</p>
-
-### ⚠️ Warning! 
-```
-By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
-WhatsFidha or we are not responsible for your account, 
-This bot is intended for the purpose of having fun with some fun commands 
-and group management with some helpfull commands.
-
-If  you ended up spamming groups, getting reported left and right, 
-and you ended up in being fight with WhatsApp
-and at the end WhatsApp Team deleted your account. DON'T BLAME US.
-
-No personal support will be provided / We won't spoon feed you. 
-If you need help
-you can contact -
-```
-![My card name](https://cardivo.vercel.app/api?name=Fidha%20Mwol&description=Hi,%20Welcome%20To%20My%20Repo%20❤&image=https://i.imgur.com/bBKeJKo.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=hyper_sir_&github=Hypersir&)
+![My card name](https://cardivo.vercel.app/api?name=Fidha%20Mwol&description=Hi,%20Welcome%20To%20Fidha%20Mwol%20WhatsApp%20Bot%20Repo%20❤&image=https://i.imgur.com/bBKeJKo.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=hyper_sir_&github=Hypersir&)
 
 <a href="https://wa.me/+527777143999?text=*Hey+iam+from+your+github+link+need+help💞*"><img title="click to contact owner" src="https://img.shields.io/badge/click_to_contact_owner-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
   
@@ -70,7 +39,21 @@ Developer, Modifying as Public | Re-Developer, Bug Fixes, Modules, Commits |  Bu
   </div>
     
 
+### Warning
+```
+By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
+Fidha-Mwol  or we are not responsible for your account, 
+This bot is intended for the purpose of having fun with some fun commands 
+and group management with some helpfull commands.
 
+If  you ended up spamming groups, getting reported left and right, 
+and you ended up in being fight with WhatsApp
+and at the end WhatsApp Team deleted your account. DON'T BLAME US.
+
+No personal support will be provided / We won't spoon feed you. 
+If you need help
+you can contact
+```
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
 
