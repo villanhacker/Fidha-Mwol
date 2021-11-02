@@ -1,5 +1,7 @@
 <div align="center">
 
+![My card name](https://cardivo.vercel.app/api?name=Fidha%20Mwol&description=Hi,%20Welcome%20To%20Fidha%20Mwol%20WhatsApp%20Bot%20Repo%20❤&image=https://i.imgur.com/bBKeJKo.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=hyper_sir_&github=Hypersir&)
+
  </a>
   <img border-radius: 15px src="https://i.imgur.com/RBYwn3X.jpeg" width="200" height="200"/>
   <p align="center">
@@ -22,8 +24,6 @@
 
 <a href="https://youtu.be/1z5uJPPGAdU"><img src="https://img.shields.io/badge/-bot%20creating%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
 <br>
-
-![My card name](https://cardivo.vercel.app/api?name=Fidha%20Mwol&description=Hi,%20Welcome%20To%20Fidha%20Mwol%20WhatsApp%20Bot%20Repo%20❤&image=https://i.imgur.com/bBKeJKo.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=hyper_sir_&github=Hypersir&)
 
 <a href="https://wa.me/+527777143999?text=*Hey+iam+from+your+github+link+need+help💞*"><img title="click to contact owner" src="https://img.shields.io/badge/click_to_contact_owner-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
   
