@@ -37,7 +37,7 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact
 ```
-<h1 align="center"> Contact Owner
+<h1 align="center"> Contact Developer
 <p align="center">
 
   <a href="https://wa.me/917025967090"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
