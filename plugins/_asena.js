@@ -1,8 +1,8 @@
 /* Copyright (C) 2020 Yusuf Usta.
-re-editted by afnanplk&hyper
+re-editted by hyper sir
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-WhatsAsena - Yusuf Usta
+Fidha mwol - hyper sir
 */
 
 const Asena = require('../events');
