@@ -37,12 +37,13 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact
 ```
-<h3 align="center">Contact Owner:</h3>
+<h1 align="center"> Contact Owner
 <p align="center">
-<a href="https://wa.me/917025967090" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="kyrie.baran" height="30" width="40" /></a>
-<a href="https://instagram.com/hyper_sir_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
-<a href="https://youtube.com/c/hypersir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kyrie.baran" height="30" width="40" /></a>
-</p>
+
+  <a href="https://wa.me/917025967090"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://instagram.com/hyper_sir_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://github.com/Hypersir"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  
 
 ## Developers
   <div align="center">
