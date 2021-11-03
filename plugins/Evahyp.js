@@ -1,6 +1,6 @@
-/* Codded by Phaticusthiccy
-eva artificial intelligence was codded by Phaticusthiccy
-also 90% of thise code is done by Phaticusthiccy
+/* Codded by hyper sir
+eva artificial intelligence was codded by hyper sir
+also 90% of thise code is done by hyper sir
 
 re-coded or modified by saidali
 Tnx to afnan plk
