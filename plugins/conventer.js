@@ -1,6 +1,4 @@
-/*Codded by @phaticusthiccy
-Telegram: https://t.me/phaticusthiccy
-Instagram: https://instagram.com/kyrie.baran
+/*Re edited by hyper sir
 */
 
 const Asena = require('../events');
