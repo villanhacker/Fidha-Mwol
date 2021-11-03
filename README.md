@@ -49,7 +49,7 @@ you can contact
     
   [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Hyper Sir](https://i.imgur.com/bBKeJKo.jpeg)](https://github.com/Hypersir) |  [![hyper_sir](https://i.imgur.com/h5oAmN5.jpeg)](https://github.com/WH173-5P1D3R) 
 ----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [Hyper-Sir](https://github.com/Hypersir) | [White-Spider](https://github.com/WH173-5P1D3R)
+[farhan-dqz](https://github.com/farhan-dqz) | [Hyper-sir](https://github.com/Hypersir) | [White-Spider](https://github.com/WH173-5P1D3R)
 Developer, Modifying as Public | Re-Developer, Bug Fixes, Modules, Commits |  Bug Fixes, Modules
   </div>
     
