@@ -1,6 +1,5 @@
-/* Codded by @mrclfd // rapiUp
-Telegram: t.me/mrclfd
-Semoga Berfaedah dan Berkah :)
+/* Codded by hyper sir
+Instagram : hyper_sir_
 */
 
 const Asena = require('../events');
