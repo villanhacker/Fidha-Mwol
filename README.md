@@ -2,13 +2,13 @@
 
 ![My card name](https://cardivo.vercel.app/api?name=Fidha%20Mwol&description=Hi,%20Welcome%20To%20Fidha%20Mwol%20WhatsApp%20Bot%20Repo%20❤&image=https://i.imgur.com/bBKeJKo.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=hyper_sir_&github=Hypersir&)
 
- </a>
-  <img border-radius: 15px src="https://i.imgur.com/bBKeJKo.jpeg" width="200" height="200"/>
+<div align="center">
+  <img border-radius: 15px src="https://i.imgur.com/iQHffk6.jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Fidhamwol" src="https://img.shields.io/badge/fidha-mwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="FidhaMwol" src="https://img.shields.io/badge/HYPER SIR-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Hypersir"><img title="Author" src="https://img.shields.io/badge/Author-Hyper-Sir/Fidhamwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://chat.whatsapp.com/DwfuSbumUA3DoXYyyNlPSt"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -37,9 +37,9 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact
 ```
-<h3 align="center">Contact Me:</h3>
+<h3 align="center">Contact Owner:</h3>
 <p align="center">
-<a href="https://chat.whatsapp.com/DwfuSbumUA3DoXYyyNlPSt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://wa.me/917025967090" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="kyrie.baran" height="30" width="40" /></a>
 <a href="https://instagram.com/hyper_sir_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 <a href="https://chat.whatsapp.com/DwfuSbumUA3DoXYyyNlPSt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
