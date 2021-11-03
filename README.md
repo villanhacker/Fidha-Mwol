@@ -41,7 +41,7 @@ you can contact
 <p align="center">
 <a href="https://wa.me/917025967090" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="kyrie.baran" height="30" width="40" /></a>
 <a href="https://instagram.com/hyper_sir_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
-<a href="https://chat.whatsapp.com/DwfuSbumUA3DoXYyyNlPSt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://youtube.com/c/hypersir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 
 ## Developers
