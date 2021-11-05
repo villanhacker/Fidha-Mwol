@@ -1,8 +1,8 @@
-/* Codded by hyper sir
+/* Codded by WhatsAsena
 eva artificial intelligence was codded by hyper sir
-also 90% of thise code is done by hyper sir
+also 90% of thise code is done by WhatsAsena
 
-re-coded or modified by saidali
+re-coded or modified by hyper sir
 Tnx to afnan plk
 to bring new ai
 */
