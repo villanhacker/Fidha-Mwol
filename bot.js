@@ -1,5 +1,5 @@
 /* Copyright (C) 2020 Yusuf Usta.
- Re edited saidalisaid
+ Re edited Hyper Sir
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
@@ -11,12 +11,17 @@ const path = require("path");
 const events = require("./events");
 const chalk = require('chalk');
 const config = require('./config');
-const {WAConnection, MessageType, Presence} = require('@adiwajshing/baileys');
+const simpleGit = require('simple-git');
+const {WAConnection, MessageOptions, MessageType, Mimetype, Presence} = require('@adiwajshing/baileys');
 const {Message, StringSession, Image, Video} = require('./julie/');
 const { DataTypes } = require('sequelize');
 const { getMessage } = require("./plugins/sql/greetings");
+const git = simpleGit();
 const axios = require('axios');
 const got = require('got');
+
+const Language = require('./language');
+const Lang = Language.getString('updater');
 
 // Sql
 const WhatsAsenaDB = config.DATABASE.define('WhatsAsena', {
@@ -268,7 +273,30 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         console.log(
             chalk.green.bold('✅️ Fidha Mwol working!')
         );
-    });
+    await conn.sendMessage(
+            conn.user.jid,
+            '*Bot Started*',
+            MessageType.text
+          );
+          if (config.LANG == 'EN' || config.LANG == 'ML') {
+            await git.fetch();
+            var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
+            if (commits.total === 0) {
+                await conn.sendMessage(conn.user.jid,Lang.UPDATE, MessageType.text);    
+            } else {
+                var julieupdate = Lang.NEW_UPDATE;
+                commits['all'].map(
+                    (commit) => {
+                        julieupdate += '🔸 [' + commit.date.substring(0, 10) + ']: ' + commit.message + ' <' + commit.author_name + '>\n';
+                    }
+                );
+                await conn.sendMessage(
+                    conn.user.jid,
+                    '```type``` *.update now* ```to update```\n\n' + julieupdate + '```', MessageType.text
+                ); 
+            } 
+      }
+        });
     
     conn.on('chat-update', async m => {
         if (!m.hasNewMessage) return;
