@@ -9,7 +9,7 @@ const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
 const hrs = new Date().getHours({ timeZone: 'Asia/Kolkata' })
 
-Asena.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (async (message, match) => {
+Asena.addCommand({pattern: 'list', fromMe: false, desc: 'it send bot menu'}, (async (message, match) => {
 
     var r_text = new Array ();
     
