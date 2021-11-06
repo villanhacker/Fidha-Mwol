@@ -399,7 +399,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     , MessageType.text);
                             } else {
                                 await conn.sendMessage(conn.user.jid, '*~______~ Ғɪᴅʜᴀ Ꮇᴡᴏʟ ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n'
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```Join here & Report errors \nhttps://chat.whatsapp.com/DwfuSbumUA3DoXYyyNlPSt``` ' 
                                     , MessageType.text);
                             }
                         }
