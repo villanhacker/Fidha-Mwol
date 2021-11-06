@@ -63,6 +63,7 @@ Asena.addCommand({pattern: 'txttoimg$', fromMe: wk, desc: desc_msg}, (async (mes
     var t28 = ''
     var t29 = ''
     var t30 = ''
+    var t31 = ''
     if (Config.LANG == 'TR' || Config.LANG == 'AZ') {
         t1 = 'Şeytan Temalı Logo Yapar.' // https://textpro.me/create-neon-devil-wings-text-effect-online-free-1014.html
         t2 = 'Ayı İkonu İçeren Logo Yapar.' // https://textpro.me/online-black-and-white-bear-mascot-logo-creation-1012.html
@@ -93,6 +94,7 @@ Asena.addCommand({pattern: 'txttoimg$', fromMe: wk, desc: desc_msg}, (async (mes
         t28 = 'Mezarlık Temalı Logo Yapar.' // https://photooxy.com/logo-and-text-effects/text-on-scary-cemetery-gate-172.html
         t29 = 'Kupa Temalı Logo Yapar.' // https://photooxy.com/logo-and-text-effects/put-text-on-the-cup-387.html
         t30 = 'Create a sketch text effect Logo.'
+        t31 = 'Create a Pornhub Style Logo.'
     }
     else {
         t1 = 'Makes Devil Themed Logo.' // https://textpro.me/create-neon-devil-wings-text-effect-online-free-1014.html
@@ -124,6 +126,7 @@ Asena.addCommand({pattern: 'txttoimg$', fromMe: wk, desc: desc_msg}, (async (mes
         t28 = 'Makes a Cemetery Themed Logo.' // https://photooxy.com/logo-and-text-effects/text-on-scary-cemetery-gate-172.html
         t29 = 'Makes a Cup Themed Logo.' // https://photooxy.com/logo-and-text-effects/put-text-on-the-cup-387.html
         t30 = 'Create a sketch text effect Logo.'
+        t31 = 'Create a Pornhub Style Logo.'
     }
     var usage_cmd = ''
     var command_cmd = ''
@@ -163,7 +166,8 @@ Asena.addCommand({pattern: 'txttoimg$', fromMe: wk, desc: desc_msg}, (async (mes
         command_cmd + '```.harry``` \n' + desc_cmd + t26 + '_\n' + usage_cmd + '.harry Hyper*\n\n' +
         command_cmd + '```.cup``` \n' + desc_cmd + t29 + '_\n' + usage_cmd + '.cup Hyper*\n\n' +
         command_cmd + '```.cemetery``` \n' + desc_cmd + t28 + '_\n' + usage_cmd + '.cemetery Hyper*\n\n' +
-        command_cmd + '```.pencil``` \n' + desc_cmd + t30 + '_\n' + usage_cmd + '.pencil Hyper*\n\n' +  
+        command_cmd + '```.pencil``` \n' + desc_cmd + t30 + '_\n' + usage_cmd + '.pencil Hyper*\n\n' +
+        command_cmd + '```.pornhub``` \n' + desc_cmd + t31 + '_\n' + usage_cmd + '.pornhub Hyper;Bot\n\n' +  
         command_cmd + '```.glitch``` \n' + desc_cmd + t14 + '_\n' + usage_cmd + '.glitch Hyper;*'
     await message.client.sendMessage(message.jid,msg, MessageType.text, { quoted: message.data })
 }));
@@ -775,6 +779,34 @@ Asena.addCommand({pattern: 'pencil ?(.*)', fromMe: wk, dontAddCommandList: true}
 
               await download(`${data}`, '/root/WhatsAsenaDuplicated/pencil.jpg', async() => {                          
                   await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/pencil.jpg'), MessageType.image, { caption: '_*Fidha BOT*_' })
+              })
+          } catch(err) { 
+              console.log(err)
+          } 
+    });
+}));
+Asena.addCommand({pattern: 'pornhub ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+    var topText, bottomText; 
+    if (match[1].includes(';')) {
+        var split = match[1].split(';');
+        topText = split[0];
+        bottomText = split[1];
+    } else {
+        topText = match[1];
+        bottomText = 'ㅤ';
+    }
+    w5botapi.textpro("https://textpro.me/pornhub-style-logo-online-generator-free-977.html",
+        [`${topText}`, `${bottomText}`]
+        ).then(async (data) => { 
+          try { 
+              var download = async(uri, filename, callback) => {
+                  await request.head(uri, async(err, res, body) => {    
+                      await request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+                  });
+              };
+
+              await download(`${data}`, '/root/WhatsAsenaDuplicated/phub.jpg', async() => {                          
+                  await message.client.sendMessage(message.jid,fs.readFileSync('/root/WhatsAsenaDuplicated/phub.jpg'), MessageType.image, { caption: '_*Fidha BOT*_' })
               })
           } catch(err) { 
               console.log(err)
