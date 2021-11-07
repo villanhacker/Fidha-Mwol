@@ -1,8 +1,8 @@
-const Shadow = require('../events');
+const Asena = require('../events');
 const Config = require('../config');
 const { MessageType, MessageOptions, Mimetype } = require('@adiwajshing/baileys');
 
-Shadow.addCommand({ pattern: 'admin ?(.*)', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
+Asena.addCommand({ pattern: 'admin ?(.*)', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
 return await message.sendMessage(`🎀 ʜᴇʀᴏᴋᴜ ᴄᴏᴍᴍᴀɴᴅs🎀
 ┏╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
 ┣𝕾⃝🎀 ʀᴇsᴛᴀʀᴛ
@@ -29,7 +29,7 @@ return await message.sendMessage(`🎀 ʜᴇʀᴏᴋᴜ ᴄᴏᴍᴍᴀɴᴅs�
 ┣𝕾⃝🌹 ᴛᴀɢ
 ┗╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍`);
 }));
-Shadow.addCommand({ pattern: 'misc ?(.*)', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
+Asena.addCommand({ pattern: 'misc ?(.*)', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
 return await message.sendMessage(`🌺 ᴍɪsᴄ ᴄᴏᴍᴍᴀɴᴅs🌺
 ┏╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
 ┣𝕾⃝🌺 ᴍᴘ3
@@ -59,7 +59,7 @@ return await message.sendMessage(`🌺 ᴍɪsᴄ ᴄᴏᴍᴍᴀɴᴅs🌺
 ┣𝕾⃝🌺 ɪɴғᴏ
 ┗╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍`);
 }));
-Shadow.addCommand({ pattern: 'download ?(.*)', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
+Asena.addCommand({ pattern: 'download ?(.*)', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
 return await message.sendMessage(`🎥 ᴅᴏᴡɴʟᴏᴅ ᴄᴏᴍᴍᴀɴᴅs🎥
 ┏╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
 ┣𝕾⃝🎥ᴠɪᴅᴇᴏ
