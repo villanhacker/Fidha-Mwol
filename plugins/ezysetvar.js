@@ -51,15 +51,5 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
         await message.sendMessage("ɴᴇᴡ ʙᴏᴛ ɴᴀᴍᴇ ᴜᴘᴅᴀᴛᴇᴅ ")
     }));
 
-Julie.addCommand({ pattern: 'theri  ?(.*)', fromMe: true, desc: 'change your theri commands', usage: '.theri command,command' }, (async (message, match) => {
-        if (match[1] == '') return await message.sendMessage('TYPE YOUR NEW BOT NAME')
-        await heroku.patch(baseURI + '/config-vars', {
-            body: {
-                ['THERI_LIST']: match[1]
-            }
-        });
-        await message.sendMessage("ᴛʜᴇʀɪ ʟɪsᴛ ᴜᴘᴅᴀᴛᴇᴅ ")
-    }));
-
 
 
