@@ -1,9 +1,9 @@
 <div align="center">
 
-![My card name](https://cardivo.vercel.app/api?name=Fidha%20Mwol&description=Hi,%20Welcome%20To%20Fidha%20Mwol%20WhatsApp%20Bot%20Repo%20❤&image=https://i.imgur.com/bBKeJKo.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=hyper_sir_&github=Hypersir&)
+![My card name](https://cardivo.vercel.app/api?name=Fidha%20Mwol&description=Hi,%20Welcome%20To%20Fidha%20Mwol%20WhatsApp%20Bot%20Repo%20❤&image=https://i.imgur.com/M2vPn9o.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=hyper_sir_&github=Hypersir&)
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/iQHffk6.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/M2vPn9o.jpeg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="FidhaMwol" src="https://img.shields.io/badge/HYPER SIR-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
