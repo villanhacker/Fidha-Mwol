@@ -19,7 +19,6 @@ const { getMessage } = require("./plugins/sql/greetings");
 const git = simpleGit();
 const axios = require('axios');
 const got = require('got');
-const W5 = require('w5-bot');
 
 const Language = require('./language');
 const Lang = Language.getString('updater');
